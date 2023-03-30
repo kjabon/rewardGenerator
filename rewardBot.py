@@ -3,8 +3,8 @@ import random
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import BotCommand
 
-# You need to acquire a Telegram API token, and a bot with Telegram, e.g. using the "BotFather." 
-# Setting this up will take up most of your time. Good luck!
+# You need to acquire a Telegram API token, and a bot with Telegram, using the "BotFather." 
+# There are good tutorials for this online. Good luck!
 API_TOKEN = 'Your_token_here' 
 
 # Configure logging
